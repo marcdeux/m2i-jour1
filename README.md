@@ -1,4 +1,6 @@
 # m2i-jour1
 Formation git jour 1
-Modification test
+Modification test local pour conflit
 Rajout pour test diff
+LOCAL
+LOCAL
