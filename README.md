@@ -7,3 +7,5 @@ LOCAL
 
 Modification test
 Rajout pour test diff
+
+Formation git jour 2
